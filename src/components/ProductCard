@@ -1,0 +1,7 @@
+
+<html lang="es">
+  <body>
+    <h1>Mi tienda de ropa</h1>
+    <ProductCard nombre="Camiseta básica" precio={19.99} imagen="/img/camiseta.jpg" talla="M" />
+  </body>
+</html>
